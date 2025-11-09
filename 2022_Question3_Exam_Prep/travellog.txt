@@ -1,0 +1,29 @@
+null
+TRAVEL LOG
+****************************************
+Destination 1: Cape Town
+Destination 2: Durban
+Travel By: Airplane
+****************************************
+
+TRAVEL LOG
+****************************************
+Destination 1: Durban
+Destination 2: Port Elizabeth
+Travel By: Train
+****************************************
+
+TRAVEL LOG
+****************************************
+Destination 1: Cape Town
+Destination 2: Durban
+Travel By: Airplane
+****************************************
+
+TRAVEL LOG
+****************************************
+Destination 1: Cape Town
+Destination 2: Durban
+Travel By: Train
+****************************************
+
